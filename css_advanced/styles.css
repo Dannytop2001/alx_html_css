@@ -1,0 +1,48 @@
+/* Header styles */
+header {
+    background-color: #f0f0f0; /* Replace with the desired background color */
+    padding: 20px; /* Adjust padding as needed */
+    display: flex; /* Use flexbox for horizontal layout */
+    justify-content: space-between; /* Align header elements horizontally */
+}
+
+header h1 {
+    font-size: 36px; /* Adjust font size */
+    font-weight: bold;
+    color: #333; /* Replace with desired color */
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007bff; /* Replace with desired color */
+}
+
+/* First section styles */
+section {
+    margin-top: 40px; /* Adjust margin as needed */
+    padding: 20px;
+    background-color: #fff; /* Replace with desired background color */
+    border: 1px solid #ccc;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+section p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+}
